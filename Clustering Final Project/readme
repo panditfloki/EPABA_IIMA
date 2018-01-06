@@ -1,0 +1,3 @@
+The main objective of this proposal is to do in depth online retail analysis. For example, if a retailer wants to increase its profit based on historical transactions or maybe to provide recommendation based on its previous purchases.  It includes various stages like standardization of data, calculating the recency, frequency and monetary scores of all the customers after the segmentation, clustering the values and finally analysing the same to perform necessary actions. 
+
+Dataset Information: Link: http://archive.ics.uci.edu/ml/machine-learning-databases/00352/ 
